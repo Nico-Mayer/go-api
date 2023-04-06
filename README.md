@@ -1,7 +1,7 @@
 # Go REST Api
 
 > This is a simple REST API written in Go that follows the Model View Controller (MVC) pattern. The
-> API utilizes only the Go standard library.
+> API utilizes only the Go standard library, no third-party dependencies.
 
 ## Getting Started
 
